@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    flex-direction: row;
+}
+.logo img{
+height: 200px;
+}
+.contenido{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+    gap: 20px;
+}
+section img{
+    height: 200px;
+}
+.puntuacion{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    justify-content: space-between;
+    padding: 10px;
+}
